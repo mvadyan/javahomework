@@ -2,7 +2,7 @@ package com.teiran.org.homework04072024;
 
 import java.util.Scanner;
 
-public class TAskThree {
+public class TaskThree {
     public static void main(String[] args) {
 
         int[] ints = new int[3];
